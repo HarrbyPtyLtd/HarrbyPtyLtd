@@ -1,4 +1,4 @@
-![HARRBY Logo](https://cdn.harrby.com/images/brands/logos/harrby/logo-harrby-r-2x.png)
+![HARRBY Logo](HarrbyPtyLtd.png)
 # Harrby - Microsoft Cloud Solutions
 
 Welcome to the official GitHub repository for Harrby, a premier Microsoft Cloud Solutions Provider and Managed Services Provider based in Australia. We specialize in delivering comprehensive Microsoft cloud services, including Azure, Microsoft 365, and Dynamics 365 solutions, tailored to meet the unique needs of businesses across various industries.
