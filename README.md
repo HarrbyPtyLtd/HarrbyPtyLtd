@@ -1,29 +1,23 @@
 ![HARRBY Logo](HarrbyPtyLtd.png)
-# Harrby - Microsoft Cloud Solutions
+# Harrby - Training
 
-Welcome to the official GitHub repository for Harrby, a premier Microsoft Cloud Solutions Provider and Managed Services Provider based in Australia. We specialize in delivering comprehensive Microsoft cloud services, including Azure, Microsoft 365, and Dynamics 365 solutions, tailored to meet the unique needs of businesses across various industries.
+Welcome to the official GitHub repository for Harrby's training programs, your go-to resource for mastering Microsoft Cloud Solutions. As Australia's leading training provider for Azure, Microsoft 365, and Dynamics 365, our courses are designed to cater to the unique learning needs of professionals across various industries.
 
 ## About Harrby
 
-Harrby provides expert cloud solutions and managed services to help businesses leverage the power of the Microsoft cloud ecosystem. From cloud strategy and migration to ongoing management and optimization, our team of certified professionals is here to support your cloud journey every step of the way.
+- Harrby specializes in training programs designed to equip businesses with the knowledge and skills needed for robust cloud solutions, advanced cybersecurity, and efficient IT infrastructure management. Our training expertise includes:
 
-## Our Services
+- Microsoft Azure Solutions Training: Courses on utilizing Microsoft Azure's IaaS, PaaS, and SaaS offerings for business scalability, flexibility, and innovation.
 
-Harrby offers a wide range of services designed to empower businesses with robust cloud solutions, advanced cybersecurity measures, and efficient management of IT infrastructures. Our expertise spans across the following areas:
+- Microsoft 365 Management Training: Training on deploying, migrating, and managing Microsoft 365 environments to enhance communication and collaboration.
 
-- **Microsoft Azure Solutions**: We provide comprehensive Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) offerings, helping businesses leverage the full potential of Microsoft Azure for scalability, flexibility, and innovation.
+- Dynamics 365 Implementation Training: Customized training to leverage Dynamics 365 for improved business operations, customer engagement, and insights-driven decision-making.
 
-- **Microsoft 365 Management**: Our team specializes in the deployment, migration, and management of Microsoft 365 environments, ensuring seamless communication and collaboration within your organization.
+- Cybersecurity and Cloud Security Compliance Training: Programs focused on comprehensive cybersecurity strategies and cloud security compliance to protect digital assets and ensure data integrity.
 
-- **Dynamics 365 Implementation**: We deliver custom Dynamics 365 solutions tailored to enhance your business operations and improve customer engagement through streamlined processes and insights-driven decision making.
+- Additional Harrby Training Programs: A suite of specialized training designed to tackle unique business challenges through advanced analytics, custom software development, and strategic IT consulting.
 
-- **Cybersecurity and Cloud Security Compliance**: Protecting your digital assets is our top priority. We implement comprehensive cybersecurity strategies alongside cloud security compliance measures to safeguard your data against threats and ensure adherence to industry regulations.
-
-- **Other Harrby Services**: In addition to our core offerings, Harrby provides a range of specialized services designed to address the unique challenges of your business. Whether it's through advanced analytics, custom software development, or strategic IT consulting, we're committed to delivering solutions that drive growth and efficiency.
-
-- **Managed IT Services**: Our managed IT services offer ongoing support and management for your entire IT infrastructure, ensuring operational excellence and allowing you to focus on core business activities.
-
-At Harrby, we are dedicated to providing innovative solutions and expert guidance to support your business in navigating the complexities of the digital landscape.
+Harrby is committed to delivering top-notch training solutions, offering innovative approaches and expert guidance to navigate the digital landscape successfully.
 
 ## Getting Started
 
