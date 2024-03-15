@@ -5,7 +5,7 @@ Welcome to the official GitHub repository for Harrby's training programs, your g
 
 ## About Harrby
 
-- Harrby specializes in training programs designed to equip businesses with the knowledge and skills needed for robust cloud solutions, advanced cybersecurity, and efficient IT infrastructure management. Our training expertise includes:
+Harrby specializes in training programs designed to equip businesses with the knowledge and skills needed for robust cloud solutions, advanced cybersecurity, and efficient IT infrastructure management. Our training expertise includes:
 
 - Microsoft Azure Solutions Training: Courses on utilizing Microsoft Azure's IaaS, PaaS, and SaaS offerings for business scalability, flexibility, and innovation.
 
