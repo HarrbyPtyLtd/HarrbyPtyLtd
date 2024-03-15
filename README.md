@@ -21,12 +21,12 @@ Harrby is committed to delivering top-notch training solutions, offering innovat
 
 ## Getting Started
 
-To start using our solutions or to learn more about how we can help your business, please follow the steps below:
+To begin learning with our training programs or to find out more about how we can support your educational needs, please follow these steps:
 
-1. **Contact Us**: Reach out to our team through our [website](https://www.harrby.com) to discuss your needs.
-2. **Consultation**: Schedule a consultation with our experts to tailor a solution that fits your business.
-3. **Implementation**: Our team will implement the solution, ensuring a smooth transition and minimal disruption.
-4. **Ongoing Support**: Enjoy peace of mind with our comprehensive managed services and support.
+1. **Contact Us**: Get in touch with our team via our [website](https://www.harrby.com) to discuss your training requirements.
+2. **Consultation**: Arrange a meeting with our experts to customize a training program that suits your business needs.
+3. **Enrollment**: Enroll in the chosen training program, where our team will guide you through the learning process.
+4. **Continuous Learning**: Benefit from our ongoing educational support to enhance your skills further.
 
 ## Contributing
 
