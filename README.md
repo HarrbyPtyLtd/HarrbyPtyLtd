@@ -53,5 +53,5 @@ Our repositories usually adopt open-source licenses such as MIT or Apache 2.0, a
 - **YouTube**: [Harrby YouTube](https://www.youtube.com/@HarrbyPtyLtd)
 - **LinkedIn**: [Harrby LinkedIn](#)
 
-Thank you for choosing Harrby for your Microsoft Cloud Solutions needs. We're excited to be a part of your cloud journey!
+Thank you for choosing Harrby for your training in Microsoft Cloud Solutions. We're thrilled to support your learning journey!
 
