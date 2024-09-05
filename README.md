@@ -1,48 +1,48 @@
 ![HARRBY Logo](HarrbyPtyLtd.png)
-# Harrby - Training
 
-Welcome to the official GitHub repository for Harrby's training programs, your go-to resource for mastering Microsoft Cloud Solutions. As Australia's leading training provider for Azure, Microsoft 365, and Dynamics 365, our courses are designed to cater to the unique learning needs of professionals across various industries.
+# Harrby - Managed Services Provider
+
+Welcome to the official GitHub repository for Harrby Pty Ltd, a premier Managed Services Provider (MSP) specializing in Microsoft Cloud Solutions. As Australia's leading MSP, we provide comprehensive IT management services to optimize Azure, Microsoft 365, and Dynamics 365 environments for businesses across various industries.
 
 ## About Harrby
 
-Harrby specializes in training programs designed to equip businesses with the knowledge and skills needed for robust cloud solutions, advanced cybersecurity, and efficient IT infrastructure management. Our training expertise includes:
+Harrby is dedicated to helping businesses thrive through fully managed IT services, including:
 
-- Microsoft Azure Solutions Training: Courses on utilizing Microsoft Azure's IaaS, PaaS, and SaaS offerings for business scalability, flexibility, and innovation.
+- **Microsoft Azure Solutions Management**: Expert management of Azure infrastructure for business scalability, security, and operational efficiency.
 
-- Microsoft 365 Management Training: Training on deploying, migrating, and managing Microsoft 365 environments to enhance communication and collaboration.
+- **Microsoft 365 Administration**: Deployment, migration, and ongoing management of Microsoft 365 environments to enhance productivity and collaboration.
 
-- Dynamics 365 Implementation Training: Customized training to leverage Dynamics 365 for improved business operations, customer engagement, and insights-driven decision-making.
+- **Dynamics 365 Solutions**: Tailored management of Dynamics 365 for optimizing business processes, customer engagement, and data-driven decision-making.
 
-- Cybersecurity and Cloud Security Compliance Training: Programs focused on comprehensive cybersecurity strategies and cloud security compliance to protect digital assets and ensure data integrity.
+- **Cloud Security & Compliance**: Comprehensive security management to ensure data protection and regulatory compliance for cloud environments.
 
-- Additional Harrby Training Programs: A suite of specialized training designed to tackle unique business challenges through advanced analytics, custom software development, and strategic IT consulting.
+- **IT Infrastructure Management**: End-to-end IT support and consulting to streamline operations and improve technology performance.
 
-Harrby is committed to delivering top-notch training solutions, offering innovative approaches and expert guidance to navigate the digital landscape successfully.
+At Harrby, we are committed to delivering reliable and innovative managed services that enable businesses to stay competitive in the digital landscape.
 
 ## Getting Started
 
-To begin learning with our training programs or to find out more about how we can support your educational needs, please follow these steps:
+To explore how Harrby can manage your IT infrastructure, follow these steps:
 
-1. **Contact Us**: Get in touch with our team via our [website](https://www.harrby.com) to discuss your training requirements.
-2. **Consultation**: Arrange a meeting with our experts to customize a training program that suits your business needs.
-3. **Enrollment**: Enroll in the chosen training program, where our team will guide you through the learning process.
-4. **Continuous Learning**: Benefit from our ongoing educational support to enhance your skills further.
+1. **Contact Us**: Visit our [website](https://www.harrby.com) to discuss your business needs.
+2. **Consultation**: Schedule a consultation with our experts to design a customized managed services solution.
+3. **Implementation**: Our team will handle the deployment, management, and ongoing support of your IT environment.
 
 ## Contributing
 
-We welcome contributions from the community! If you're interested in contributing to our projects, please take a look at our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
+We welcome community involvement! Review our [contributing guidelines](CONTRIBUTING.md) for details on how you can collaborate on our projects.
 
 ## Support
 
-If you need help with any of our solutions or services, please don't hesitate to contact us:
+For assistance with any of our services, reach out to us:
 
 - **Email**: hello@harrby.com
 - **Phone**: 1300 610 010
-- **Documentation**: Visit our [documentation page](#) for detailed guides and FAQs.
+- **Documentation**: Check out our [documentation page](#) for detailed guides and support.
 
 ## License
 
-Our repositories usually adopt open-source licenses such as MIT or Apache 2.0, among others, for project licensing.
+Our repositories typically follow open-source licenses such as MIT or Apache 2.0, depending on the project.
 
 ## Connect with Us
 
@@ -53,5 +53,6 @@ Our repositories usually adopt open-source licenses such as MIT or Apache 2.0, a
 - **YouTube**: [Harrby YouTube](https://www.youtube.com/@HarrbyPtyLtd)
 - **LinkedIn**: [Harrby LinkedIn](#)
 
-Thank you for choosing Harrby for your training in Microsoft Cloud Solutions. We're thrilled to support your learning journey!
+Thank you for trusting Harrby as your Managed Services Provider for Microsoft Cloud Solutions! We look forward to supporting your business growth.
+
 
