@@ -51,7 +51,7 @@ Our repositories typically follow open-source licenses such as MIT or Apache 2.0
 - **Facebook**: [Harrby Facebook](https://www.facebook.com/HarrbyPtyLtd)
 - **Instagram**: [Harrby Instagram](https://www.instagram.com/HarrbyPtyLtd)
 - **YouTube**: [Harrby YouTube](https://www.youtube.com/@HarrbyPtyLtd)
-- **LinkedIn**: [Harrby LinkedIn](#)
+- **LinkedIn**: [Harrby LinkedIn](https://linkedin/company/Harrby)
 
 Thank you for trusting Harrby as your Managed Services Provider for Microsoft Cloud Solutions! We look forward to supporting your business growth.
 
